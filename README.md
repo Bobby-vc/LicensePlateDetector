@@ -2,6 +2,8 @@
 
 This project builds a computer vision system that automatically detects vehicle license plates in images using a YOLOv8 object detection model. It is designed for parking management, security monitoring, tolling systems, and other environments where identifying vehicles quickly and accurately is essential.
 
+Demo Video: https://drive.google.com/file/d/1_2oUbkpl4zjI9Q5_x6hCD1SLmM-glbmR/view?usp=drive_link
+
 Team Members: Akinbobola Akinpelu
 
 Tier Selection: Tier 2 — Object Detection
